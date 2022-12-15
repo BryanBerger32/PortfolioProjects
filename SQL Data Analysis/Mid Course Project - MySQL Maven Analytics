@@ -1,5 +1,9 @@
 -- Maven Movies Project -- 
 
+The Situation
+
+The company's insurance policy is up for renewal and the insurance company's underwriters need some updated information from us before they will issue a new policy.
+
 -- Question 1: We will need a list of all staff members, including their first and last names, email addresses, and the store identification number where they work -- 
 
 SELECT
